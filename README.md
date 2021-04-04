@@ -1,5 +1,7 @@
 # Face Mask Detection through novel Hide and Seek Algorithm
 
+(Note: Our paper only discusses about images. We extended our code to work for video as well.)
+
 ### Dependencies:
 - Python 3.6
 - OpenCV
