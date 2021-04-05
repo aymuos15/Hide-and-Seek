@@ -1,5 +1,4 @@
 # Face Mask Detection through novel Hide and Seek Algorithm 
-# (Bhalla and Kundu et al.)
 
 Paper accepted at 25th Iberoamerican Congress on Pattern Recognition. Proceedings at Springer LNCS. 
 
