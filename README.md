@@ -4,8 +4,6 @@ Paper accepted at 25th Iberoamerican Congress on Pattern Recognition. Proceeding
 
 Proceedings Link:
 
-Research Gate Link: 
-
 (Note: Our paper only discusses about images. We extended our code to work for video as well.)
 
 ### Dependencies:
