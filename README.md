@@ -4,7 +4,7 @@ Paper accepted at 25th Iberoamerican Congress on Pattern Recognition. Proceeding
 
 Proceedings Link:
 
-(Note: Our paper only discusses about images. We extended our code to work for video as well.)
+(Note: Our paper only discusses about images. We extended our code to work for video and multiple faces in a seperate paper.)
 
 ### Dependencies:
 - Python 3.6
